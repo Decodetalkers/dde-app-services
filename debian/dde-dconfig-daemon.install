@@ -5,3 +5,5 @@ usr/share/dbus-1/system.d/*
 usr/share/dbus-1/interfaces/*
 usr/share/dbus-1/system-services/*
 usr/lib/systemd/system/*
+usr/lib/sysusers.d/*
+usr/lib/tmpfiles.d/*
